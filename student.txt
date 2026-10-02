@@ -1,2 +1,5 @@
 Name: Sahana Reddy
 USN: 1VI25CD048
+Branch: Data Science
+Semester: 3rd sem
+Project Management
